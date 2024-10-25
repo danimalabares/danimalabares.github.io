@@ -1,2 +1,2 @@
 Some content
-# danimalabares.github.io
+danimalabares.github.io
